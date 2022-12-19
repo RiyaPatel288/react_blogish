@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_blogish/static/css/main.720df9dd.css",
+    "main.js": "/react_blogish/static/js/main.eb595bcd.js",
+    "static/js/787.1d241aae.chunk.js": "/react_blogish/static/js/787.1d241aae.chunk.js",
+    "service-worker.js": "/react_blogish/service-worker.js",
+    "static/media/logo_blogish.png": "/react_blogish/static/media/logo_blogish.a413b9d2e4b4116bbf9c.png",
+    "index.html": "/react_blogish/index.html",
+    "main.720df9dd.css.map": "/react_blogish/static/css/main.720df9dd.css.map",
+    "main.eb595bcd.js.map": "/react_blogish/static/js/main.eb595bcd.js.map",
+    "787.1d241aae.chunk.js.map": "/react_blogish/static/js/787.1d241aae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.720df9dd.css",
+    "static/js/main.eb595bcd.js"
+  ]
+}

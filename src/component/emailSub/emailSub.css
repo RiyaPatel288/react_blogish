@@ -1,0 +1,16 @@
+.txt1{
+    text-align: center;
+    font-size: 45px;
+}
+.txt2{
+    text-align: center;
+}
+.inputemail
+{
+    width: 450px;
+    margin-top: 10px;
+    margin-left: 450px;
+}
+.btnsubmit{
+    margin-top: 10px;
+}

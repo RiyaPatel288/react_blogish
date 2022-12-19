@@ -1,0 +1,26 @@
+.card-text img {
+    border: 1px solid white;
+    height: 200px;
+    width: 400px;   
+}
+.blogcard{
+    color: black;
+    text-decoration: none;
+}
+.card-title{
+    color: black;
+    font-family: serif;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-bottom: 15px;
+    height: 350px;
+    font-size: 25px;
+    /* width: auto; */
+    overflow: hidden;
+}
+.card:hover{
+   /* background-color: #edf7fa; */
+   background-color: #F3F2FF;
+}

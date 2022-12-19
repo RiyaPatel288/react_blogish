@@ -1,0 +1,26 @@
+.cardsingleblock {
+    height: fit-content;
+    margin-left: 25px;
+    width: 1000px;
+}
+
+.cardsingletext {
+    font-size: 15px;
+}
+
+.card-text img {
+    width: 100%;
+    height: 350%;
+}
+.reviewcom{
+    margin-left: 25px;
+}
+
+/* .card-text img{
+    height: 700px;
+    width: 970px;
+} */
+/* .cardsingleimage{
+    background-color: aqua;
+    width: 970px;
+} */
